@@ -1,3 +1,4 @@
+-- Ramiro completed this
 -- Shows a relevant area
 select * from CHILDREN WHERE CHILD_AGE = 1;
 
